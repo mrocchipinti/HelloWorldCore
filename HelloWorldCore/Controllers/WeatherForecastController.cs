@@ -13,7 +13,7 @@ namespace HelloWorldCore.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "XXXXXXXXXXXXXXXXXXXXXX", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "wwwwwwwwwwwwww", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
